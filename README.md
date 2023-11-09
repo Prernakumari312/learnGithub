@@ -1,5 +1,7 @@
 # learnGithub
 learn git and github
 <br>
-Author/ Prerna kumari
+Author - Prerna kumari(UCET)
+
+
 
